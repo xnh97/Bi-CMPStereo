@@ -1,0 +1,75 @@
+absl-py==2.2.2
+antlr4-python3-runtime==4.9.3
+beautifulsoup4==4.14.3
+Brotli @ file:///croot/brotli-split_1736182456865/work
+bypy==1.8.9
+certifi @ file:///croot/certifi_1738623731865/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+contourpy==1.3.0
+cycler==0.12.1
+# Editable install with no version control (deform_conv==0.0.0)
+-e /data/hjw/events/SE-CFF/src/components/models/deform_conv
+dill==0.4.0
+einops==0.8.1
+event_voxel_builder==0.0.4
+filelock @ file:///croot/filelock_1700591183607/work
+fonttools==4.57.0
+fvcore==0.1.5.post20221221
+gdown==5.2.0
+gmpy2 @ file:///croot/gmpy2_1738085463648/work
+grpcio==1.71.0
+h5py==3.13.0
+hdf5plugin==5.1.0
+idna @ file:///croot/idna_1714398848350/work
+importlib_metadata==8.6.1
+importlib_resources==6.5.2
+iopath==0.1.10
+Jinja2 @ file:///croot/jinja2_1741710844255/work
+kiwisolver==1.4.7
+kornia==0.8.1
+kornia_rs==0.1.9
+llvmlite==0.43.0
+Markdown==3.7
+MarkupSafe @ file:///croot/markupsafe_1738584038848/work
+matplotlib==3.9.4
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+multiprocess==0.70.18
+networkx @ file:///croot/networkx_1717597493534/work
+ninja==1.11.1.4
+numba==0.60.0
+numpy==1.26.4
+omegaconf==2.3.0
+opencv-python==4.11.0.86
+packaging==24.2
+pillow @ file:///croot/pillow_1738010226202/work
+portalocker==3.2.0
+protobuf==6.30.2
+ptflops==0.7.5
+pyparsing==3.2.3
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+requests @ file:///croot/requests_1730999120400/work
+requests-toolbelt==1.0.0
+scipy==1.13.1
+six==1.17.0
+soupsieve==2.8.1
+sympy @ file:///croot/sympy_1738108488918/work
+tabulate==0.9.0
+tensorboard==2.19.0
+tensorboard-data-server==0.7.2
+termcolor==3.1.0
+thop==0.1.1.post2209072238
+torch==2.0.0
+torchaudio==2.0.0
+torchvision==0.15.0
+tqdm==4.67.1
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+urllib3 @ file:///croot/urllib3_1737133630106/work
+Werkzeug==3.1.3
+yacs==0.1.8
+zipp==3.21.0
