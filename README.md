@@ -19,3 +19,6 @@ python: 3.9.19
 torch: 2.0.0
 
 cuda: 11.8
+
+All dependencies are provided in `requirements.txt`.
+
