@@ -15,5 +15,7 @@ Download the pretrained model from Google Drive:
 The code was tested with the following environment:
 
 python: 3.9.19
+
 torch: 2.0.0
+
 cuda: 11.8
